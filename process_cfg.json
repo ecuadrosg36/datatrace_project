@@ -1,0 +1,16 @@
+{
+  "correo_responsable": "mlarico@bcp.com.pe",
+  "area_bcp": "Data Excellence",
+  "empresa": "BCP",
+  "comentarios": "Librería para identificar la trazabilidad de tablas y campos en scripts PLSQL Oracle.",
+  "params": {
+    "DS_CLIENTE_VERSION": "11.7",
+    "PRM_PROYECTO": "bcp_coe_datatrace",
+    "PRM_SUBS_COD": "BCP",
+    "PRM_CAPA_COD": "RDV",
+    "PRM_VERSION": "1.0.0",
+    "PRM_VENV_NAME": "lhcl-bcp_coe_datatrace_venv"
+  },
+  "adls_directory": [],
+  "adls_directory_upload": []
+}
